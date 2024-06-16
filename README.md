@@ -1,2 +1,2 @@
-# PowerBI_Data_Analysis
+# Power BI Data Analysis
 Data analysis using Power BI
