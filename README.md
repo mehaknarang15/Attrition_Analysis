@@ -1,2 +1,2 @@
-# Power BI Data Analysis
+# Attrition Analysis
 Data analysis using Power BI
